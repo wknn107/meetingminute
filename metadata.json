@@ -1,0 +1,6 @@
+{
+  "name": "商業登記書類作成アシスタント",
+  "description": "会社情報や登記変更内容を基に、正確で高品質な商業登記関連書類（株主総会議事録、取締役会議事録、登記申請書別紙、委任状、必要書類チェックリストなど）を自動生成する法務・登記支援ツール。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
